@@ -1,0 +1,18 @@
+Fundamentos/DesafioCalculadora.java
+ Fundamentos.DesafioCalculadora
+Fundamentos/DesafioIMC.java
+ Fundamentos.DesafioIMC
+Fundamentos/DesafioTemperatura1.java
+ Fundamentos.DesafioTemperatura1
+Fundamentos/DesafioTemperatura2.java
+ Fundamentos.DesafioTemperatura2
+Fundamentos/DesafioQuadradoCubo.java
+ Fundamentos.DesafioQuadradoCubo
+Fundamentos/DesafioTriangulo.java
+ Fundamentos.DesafioTriangulo
+Fundamentos/DesafioDelta.java
+ Fundamentos.DesafioDelta
+EstruturasDeControle/DesafioIfElse.java
+ EstruturasDeControle.DesafioIfElse
+EstruturasDeControle/DesafioIf.java
+ EstruturasDeControle.DesafioIf
