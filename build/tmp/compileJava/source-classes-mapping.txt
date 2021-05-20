@@ -1,9 +1,39 @@
-Fundamentos/DesafioQuadradoCubo.java
- Fundamentos.DesafioQuadradoCubo
+EstruturasDeControle/DesafioFor3.java
+ EstruturasDeControle.DesafioFor3
+Fundamentos/DesafioTemperatura2.java
+ Fundamentos.DesafioTemperatura2
+EstruturasDeControle/DesafioIf.java
+ EstruturasDeControle.DesafioIf
+EstruturasDeControle/DesafioDiasSemana.java
+ EstruturasDeControle.DesafioDiasSemana
+EstruturasDeControle/DesafioSomadorNUm.java
+ EstruturasDeControle.DesafioSomadorNUm
+EstruturasDeControle/DesafioExDoWhile.java
+ EstruturasDeControle.DesafioExDoWhile
 EstruturasDeControle/DesafioIfElseIf.java
  EstruturasDeControle.DesafioIfElseIf
+EstruturasDeControle/DesafioNUmPar.java
+ EstruturasDeControle.DesafioNUmPar
+EstruturasDeControle/DesafioFor.java
+ EstruturasDeControle.DesafioFor
+EstruturasDeControle/DesafioFor2.java
+ EstruturasDeControle.DesafioFor2
+EstruturasDeControle/DesafioNumPrimo.java
+ EstruturasDeControle.DesafioNumPrimo
+EstruturasDeControle/DesafioWhile.java
+ EstruturasDeControle.DesafioWhile
+EstruturasDeControle/DesafioMedia.java
+ EstruturasDeControle.DesafioMedia
+EstruturasDeControle/DesafioSwitchBreak.java
+ EstruturasDeControle.DesafioSwitchBreak
+EstruturasDeControle/DesafioSwitch.java
+ EstruturasDeControle.DesafioSwitch
+EstruturasDeControle/DesafioDoWhile.java
+ EstruturasDeControle.DesafioDoWhile
 Fundamentos/DesafioCalculadora.java
  Fundamentos.DesafioCalculadora
+EstruturasDeControle/DesafioAnoBiSsexto.java
+ EstruturasDeControle.DesafioAnoBiSsexto
 Fundamentos/DesafioIMC.java
  Fundamentos.DesafioIMC
 Fundamentos/DesafioTemperatura1.java
@@ -12,21 +42,15 @@ Fundamentos/DesafioTriangulo.java
  Fundamentos.DesafioTriangulo
 EstruturasDeControle/DesafioIfElse.java
  EstruturasDeControle.DesafioIfElse
-Fundamentos/DesafioTemperatura2.java
- Fundamentos.DesafioTemperatura2
-Fundamentos/DesafioDelta.java
- Fundamentos.DesafioDelta
-EstruturasDeControle/DesafioDiasSemana.java
- EstruturasDeControle.DesafioDiasSemana
-EstruturasDeControle/DesafioDoWhile.java
- EstruturasDeControle.DesafioDoWhile
-EstruturasDeControle/DesafioWhile.java
- EstruturasDeControle.DesafioWhile
-EstruturasDeControle/DesafioFor.java
- EstruturasDeControle.DesafioFor
-EstruturasDeControle/DesafioIf.java
- EstruturasDeControle.DesafioIf
 EstruturasDeControle/DesafioWhile2.java
  EstruturasDeControle.DesafioWhile2
-EstruturasDeControle/DesafioFor2.java
- EstruturasDeControle.DesafioFor2
+EstruturasDeControle/DesafioFor4.java
+ EstruturasDeControle.DesafioFor4
+Fundamentos/DesafioDelta.java
+ Fundamentos.DesafioDelta
+Fundamentos/DesafioQuadradoCubo.java
+ Fundamentos.DesafioQuadradoCubo
+EstruturasDeControle/DesafioImpressaoLetra.java
+ EstruturasDeControle.DesafioImpressaoLetra
+EstruturasDeControle/DesafioImpressaoValor.java
+ EstruturasDeControle.DesafioImpressaoValor
