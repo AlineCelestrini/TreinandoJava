@@ -1,18 +1,32 @@
+Fundamentos/DesafioQuadradoCubo.java
+ Fundamentos.DesafioQuadradoCubo
+EstruturasDeControle/DesafioIfElseIf.java
+ EstruturasDeControle.DesafioIfElseIf
 Fundamentos/DesafioCalculadora.java
  Fundamentos.DesafioCalculadora
 Fundamentos/DesafioIMC.java
  Fundamentos.DesafioIMC
 Fundamentos/DesafioTemperatura1.java
  Fundamentos.DesafioTemperatura1
-Fundamentos/DesafioTemperatura2.java
- Fundamentos.DesafioTemperatura2
-Fundamentos/DesafioQuadradoCubo.java
- Fundamentos.DesafioQuadradoCubo
 Fundamentos/DesafioTriangulo.java
  Fundamentos.DesafioTriangulo
-Fundamentos/DesafioDelta.java
- Fundamentos.DesafioDelta
 EstruturasDeControle/DesafioIfElse.java
  EstruturasDeControle.DesafioIfElse
+Fundamentos/DesafioTemperatura2.java
+ Fundamentos.DesafioTemperatura2
+Fundamentos/DesafioDelta.java
+ Fundamentos.DesafioDelta
+EstruturasDeControle/DesafioDiasSemana.java
+ EstruturasDeControle.DesafioDiasSemana
+EstruturasDeControle/DesafioDoWhile.java
+ EstruturasDeControle.DesafioDoWhile
+EstruturasDeControle/DesafioWhile.java
+ EstruturasDeControle.DesafioWhile
+EstruturasDeControle/DesafioFor.java
+ EstruturasDeControle.DesafioFor
 EstruturasDeControle/DesafioIf.java
  EstruturasDeControle.DesafioIf
+EstruturasDeControle/DesafioWhile2.java
+ EstruturasDeControle.DesafioWhile2
+EstruturasDeControle/DesafioFor2.java
+ EstruturasDeControle.DesafioFor2
