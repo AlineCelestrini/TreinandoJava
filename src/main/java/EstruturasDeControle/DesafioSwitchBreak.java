@@ -4,6 +4,7 @@ package EstruturasDeControle;
 // continue - interrompe somente aquela repetição e já vai para a próxima.
 
 import java.util.Scanner;
+ //utilizado para seleções multiplas.
 
 public class DesafioSwitchBreak {
     public static void main(String[] args) {
