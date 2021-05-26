@@ -74,9 +74,21 @@ ClasseMetodos/Classes/Pessoa.java
  ClasseMetodos.Classes.Pessoa
 ClasseMetodos/Classes/JantarMain.java
  ClasseMetodos.Classes.JantarMain
-ArraysECollections/SobreArraysECollectionss.java
- ArraysECollections.SobreArraysECollectionss
+ArraysECollections/DesafioMatriz.java
+ ArraysECollections.DesafioMatriz
 ArraysECollections/ExerciciosArrays.java
  ArraysECollections.ExerciciosArrays
 ArraysECollections/ForEach.java
  ArraysECollections.ForEach
+ArraysECollections/DesafioMediaAalunoArrayForeach.java
+ ArraysECollections.DesafioMediaAalunoArrayForeach
+ClasseMetodos/Classes/DesafioEqualsHashcode.java
+ ClasseMetodos.Classes.DesafioEqualsHashcode
+ClasseMetodos/Classes/UsuarioEquals.java
+ ClasseMetodos.Classes.UsuarioEquals
+ArraysECollections/SobreArraysECollectionss.java
+ ArraysECollections.SobreArraysECollectionss
+ArraysECollections/ConjuntoBaguncadoSET.java
+ ArraysECollections.ConjuntoBaguncadoSET
+ArraysECollections/ConjuntoComportadoSET.java
+ ArraysECollections.ConjuntoComportadoSET
