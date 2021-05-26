@@ -74,3 +74,9 @@ ClasseMetodos/Classes/Pessoa.java
  ClasseMetodos.Classes.Pessoa
 ClasseMetodos/Classes/JantarMain.java
  ClasseMetodos.Classes.JantarMain
+ArraysECollections/SobreArraysECollectionss.java
+ ArraysECollections.SobreArraysECollectionss
+ArraysECollections/ExerciciosArrays.java
+ ArraysECollections.ExerciciosArrays
+ArraysECollections/ForEach.java
+ ArraysECollections.ForEach
