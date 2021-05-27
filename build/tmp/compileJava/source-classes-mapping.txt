@@ -86,9 +86,21 @@ ClasseMetodos/Classes/DesafioEqualsHashcode.java
  ClasseMetodos.Classes.DesafioEqualsHashcode
 ClasseMetodos/Classes/UsuarioEquals.java
  ClasseMetodos.Classes.UsuarioEquals
-ArraysECollections/SobreArraysECollectionss.java
- ArraysECollections.SobreArraysECollectionss
-ArraysECollections/ConjuntoBaguncadoSET.java
- ArraysECollections.ConjuntoBaguncadoSET
 ArraysECollections/ConjuntoComportadoSET.java
  ArraysECollections.ConjuntoComportadoSET
+ArraysECollections/ConjuntoBaguncadoSET.java
+ ArraysECollections.ConjuntoBaguncadoSET
+ArraysECollections/Pilha.java
+ ArraysECollections.Pilha
+ArraysECollections/SobreArraysECollectionss.java
+ ArraysECollections.SobreArraysECollectionss
+ArraysECollections/Fila.java
+ ArraysECollections.Fila
+ArraysECollections/Mapa.java
+ ArraysECollections.Mapa
+ArraysECollections/Lista.java
+ ArraysECollections.Lista
+ArraysECollections/Usuario.java
+ ArraysECollections.Usuario
+ArraysECollections/HashCode.java
+ ArraysECollections.HashCode

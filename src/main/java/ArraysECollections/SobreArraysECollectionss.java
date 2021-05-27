@@ -25,11 +25,10 @@ public class SobreArraysECollectionss {
      * COLLECTIONS - estrturas e formas de organização de dados, tem tamanhos variados, sem tamanho determinado, podendo crescer de acordo com o tempo. Os dados podem ser diferentes.
      * Nas boas práticas o ideal são criações de um tipo de dado, trabalhar de forma homogênea. As collections não aderem os tipos primitivos.Alguns tipos de collections:
      * SET - não ordenado(padrão); não indexado; não aceita repetição.(conj com vários valores dentro)
-     * LIST - indexada; aceita repetição. Parecido com o Array. (um estrtura de lista)
-     * MAP - chave/valor; chave nao aceita repetição; valor aceita repetição. (um estrutura com 2 colunas) Junção
+     * LIST - indexada; é ordenada; aceita repetição. Parecido com o Array. (um estrtura de lista)
+     * MAP - chave/valor; chave nao aceita repetição; valor aceita repetição. (um estrutura com 2 colunas) Junção - mapa
      * QUEUE - implementa fila; First in First out(FIFO) (Fila)
-     * STACK - implementa pilha(stack); last in/First out (LIFO) (Pilha)
-     *
+     * STACK - implementa pilha(stack); last in/First out (LIFO) (Pilha) ultimo a entra é o primeiro a sair
      *
      * WRAPPER - coleções dos tipos primitivos.
      *
