@@ -104,3 +104,25 @@ ArraysECollections/Usuario.java
  ArraysECollections.Usuario
 ArraysECollections/HashCode.java
  ArraysECollections.HashCode
+OO/Composicao/Motor.java
+ OO.Composicao.Motor
+OO/Composicao/Carro.java
+ OO.Composicao.Carro
+OO/OrientacaoObjeto.java
+ OO.OrientacaoObjeto
+OO/Composicao/CarroTest.java
+ OO.Composicao.CarroTest
+OO/Composicao/Curso.java
+ OO.Composicao.Curso
+OO/Composicao/CursoTest.java
+ OO.Composicao.CursoTest
+OO/Composicao/Aluno.java
+ OO.Composicao.Aluno
+OO/DesafioComposicao/Compra.java
+ OO.DesafioComposicao.Compra
+OO/DesafioComposicao/Item.java
+ OO.DesafioComposicao.Item
+OO/DesafioComposicao/ClienteTest.java
+ OO.DesafioComposicao.ClienteTest
+OO/DesafioComposicao/Cliente.java
+ OO.DesafioComposicao.Cliente
