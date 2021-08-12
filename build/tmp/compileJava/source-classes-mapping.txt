@@ -108,8 +108,8 @@ OO/Composicao/Motor.java
  OO.Composicao.Motor
 OO/Composicao/Carro.java
  OO.Composicao.Carro
-OO/OrientacaoObjeto.java
- OO.OrientacaoObjeto
+OO/DesafioComposicao/Cliente.java
+ OO.DesafioComposicao.Cliente
 OO/Composicao/CarroTest.java
  OO.Composicao.CarroTest
 OO/Composicao/Curso.java
@@ -124,5 +124,52 @@ OO/DesafioComposicao/Item.java
  OO.DesafioComposicao.Item
 OO/DesafioComposicao/ClienteTest.java
  OO.DesafioComposicao.ClienteTest
-OO/DesafioComposicao/Cliente.java
- OO.DesafioComposicao.Cliente
+OO/Encapsulamento/Pessoa.java
+ OO.Encapsulamento.Pessoa
+OO/Heranca/Direcao.java
+ OO.Heranca.Direcao
+OO/Polimorfismo/Feijao.java
+ OO.Polimorfismo.Feijao
+OO/Heranca/Heroi.java
+ OO.Heranca.Heroi
+OO/DesafioHeranca/Esportivo.java
+ OO.DesafioHeranca.Esportivo
+OO/Encapsulamento/PessoaTeste.java
+ OO.Encapsulamento.PessoaTeste
+OO/Polimorfismo/Comida.java
+ OO.Polimorfismo.Comida
+OO/Heranca/Jogador.java
+ OO.Heranca.Jogador
+ OO.Heranca.Jogador$1
+OO/Heranca/Monstro.java
+ OO.Heranca.Monstro
+OO/TesteVisibilidade/Jogo.java
+ OO.TesteVisibilidade.Jogo
+OO/Polimorfismo/Arroz.java
+ OO.Polimorfismo.Arroz
+OO/Polimorfismo/Jantar.java
+ OO.Polimorfismo.Jantar
+OO/Polimorfismo/Sorvete.java
+ OO.Polimorfismo.Sorvete
+OO/Polimorfismo/Pessoa.java
+ OO.Polimorfismo.Pessoa
+OO/DesafioHeranca/Luxo.java
+ OO.DesafioHeranca.Luxo
+OO/ClasseAbstrata/TesteAbstrato.java
+ OO.ClasseAbstrata.TesteAbstrato
+OO/DesafioHeranca/Fox.java
+ OO.DesafioHeranca.Fox
+OO/TesteVisibilidade/carroTeste.java
+ OO.TesteVisibilidade.carroTeste
+OO/ClasseAbstrata/Cachorro.java
+ OO.ClasseAbstrata.Cachorro
+OO/ClasseAbstrata/Animal.java
+ OO.ClasseAbstrata.Animal
+OO/OrientacaoObjeto.java
+ OO.OrientacaoObjeto
+OO/DesafioHeranca/Ferrari.java
+ OO.DesafioHeranca.Ferrari
+OO/ClasseAbstrata/Mamifero.java
+ OO.ClasseAbstrata.Mamifero
+OO/DesafioHeranca/Carro.java
+ OO.DesafioHeranca.Carro

@@ -32,14 +32,30 @@ public class OrientacaoObjeto {
      * PACKAGE(DEFAULT): só ficam acessiveis para as classes dentro do mesmo pacote. (por padrão é quando vc não define nada na frente dos atributos)
      * PRIVATE: os atributos só podem ser acessados dentro da propria classe, dentro dos metodos dela.(menor visibilidade)
      *
-     * HERANÇA - reuso de codigo através das caracteristiscas e comportamentos de outro objeto.
+     * GETTERS/SETTERS - GET retorna e o SET altera, sem modificar o atributo privado da classe.
+     *
+     * HERANÇA (extends) - reuso de codigo através das caracteristiscas e comportamentos de outro objeto.
      * Todos os objetos que herdarem a classe pai, trarão os atributos e comportamentos dele, por isso a classe pai deve
      * ser a mais generica possível.
+     * Sub Classe(+especifica - FILHO) herda--> SUPER CLASSE(+genérica - PAI)
+     * Nem toda hierarquia tem ou é herança.
+     *
+     * POLIMORFISMO:
+     * ESTÁTICO: sobrecarga com assinatura diferente, ou seja, mesmo nome, porém parâmetros diferentes,
+     * funcionamento diferente, varias formas de funcionamento.
+     * DINÂMICO: a partir de herança, vai instanciando a partir do tipo mais genérico, os objetos mais especificos,
+     * que vão absorvendo e herdando os comportamentos.
+     *
+     * ABSTRAÇÃO - simplificação das complexidades do mundo real para um software. Transformar em objeto.
+     * Nem tudo que está no mundo real estará no software e nem tudo que estará no software terá no mundo real.
+     * Níveis de interpretar o software de formas diferentes de acordo com o negócio.
+     * Entender o que é relevante ou não para o negócio do cliente. Nem tudo que o cliente diz é a verdade absoluta.
+     *
+     * CLASSE ABSTRATA - geralmente utilizadas por herança em outras classes. Seus métodos podem ou não ser definidos com corpo.
+     * representa os conceitos dos objetos de forma abstrata no programa. Não pode ser instanciada. Os métodos abstratos podem ser
+     * definidos ou não dentro das classes concretas.
      *
      *
-     * POLIMORFISMO -
-     *
-     * ABSTRAÇÃO - simplificação das complexidades do mundo real para um software
      *
      *
      */
